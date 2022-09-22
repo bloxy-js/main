@@ -12,3 +12,8 @@ This is the main repo.
 
 
 Beta is located [here](https://github.com/bloxy-js/beta)
+
+# bloxy.js
+
+
+https://blox-js.discourse.group/
